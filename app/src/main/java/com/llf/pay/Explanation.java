@@ -1,4 +1,4 @@
-package com.llf.pay;
+﻿package com.llf.pay;
 
 /**
  * Created by llf on 2016/6/24.
@@ -7,7 +7,7 @@ package com.llf.pay;
  * 支付宝生成公钥私钥可参考 http://www.tuicool.com/articles/FBveUfF
  *
  * 微信支付流程  提交商品ID和商品数量到服务端--->服务端处理之后返回一个订单号-->通过订单号向服务端发送支付请求--》返回微信支付需要的参数
- * 微信支付参考地址 https://pay.weixin.qq.com/wxzf_guide/detail_app.shtml?back=index
+ * 微信支付参考地址 https://pay.weixin.qq.com/wxzf_guide/detail_app.shtml?back=index，这边只是写了一个简单的列子
  */
 public class Explanation {
 }
